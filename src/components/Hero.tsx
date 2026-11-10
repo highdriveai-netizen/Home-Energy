@@ -85,8 +85,8 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCompare, onOpenBusinessQuote }
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl shadow-slate-900/10 border border-slate-200/80 aspect-[4/3] sm:aspect-[16/11] lg:aspect-auto lg:h-[480px]">
               <img
-                src="/src/assets/images/user_hero_solar_home.png"
-                alt="Modern energy-efficient UK home with solar panels at sunset"
+                src="/assets/images/hero_home_energy_uk_1794306887056.jpg"
+                alt="Modern welcoming UK family home living room with natural daylight and smart thermostat"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />

@@ -16,7 +16,7 @@ export const HowEnergySolutionsHelps: React.FC<HowEnergySolutionsHelpsProps> = (
           <div className="lg:col-span-5 order-2 lg:order-1 relative">
             <div className="relative rounded-2xl overflow-hidden shadow-xl border border-slate-200">
               <img
-                src="/src/assets/images/solar_powered_modern_home.png"
+                src="/assets/images/solar_powered_modern_home.png"
                 alt="Modern energy-efficient UK home with rooftop solar panels at sunset"
                 className="w-full h-full object-cover aspect-[4/3]"
                 referrerPolicy="no-referrer"
