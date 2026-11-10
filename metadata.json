@@ -1,0 +1,6 @@
+{
+  "name": "Energy Solutions - Compare Home Gas & Electricity",
+  "description": "Compare domestic gas and electricity suppliers online with Energy Solutions UK. Transparent, simple, and dedicated household energy switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
